@@ -1,0 +1,4 @@
+[INFO ] 2024-02-10 13:47:15,745 UserTest2.testpostuser() - ******* creating user*********
+[INFO ] 2024-02-10 13:47:15,776 UserTest2.testgetuser() - ******* reading user*********
+[INFO ] 2024-02-10 13:47:19,837 UserTest2.testUpdateuser() - ******* updating user*********
+[INFO ] 2024-02-10 13:47:22,691 UserTest2.testDeleteuser() - ******* deleting user*********

@@ -1,0 +1,2 @@
+[INFO ] 2024-02-10 09:40:15,649 UserTest.testpostuser() - ******* creating user*********
+[INFO ] 2024-02-10 09:40:21,351 UserTest.testgetuser() - ******* reading user*********
